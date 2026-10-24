@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sanctuaryministries.au/sitemap.xml
